@@ -1,0 +1,29 @@
+div {
+  height: 50vh;
+  font-size: 60px;
+  border: solid 2px black;
+}
+
+.section-1 {
+  background-color: aqua;
+}
+
+.section-2 {
+  background-color: blueviolet;
+}
+
+.section-3 {
+  background-color: cadetblue;
+}
+
+.section-4 {
+  background-color: darkgreen;
+}
+
+.section-5 {
+  background-color: fuchsia;
+}
+
+.text-animate {
+  color: white;
+}
